@@ -20,6 +20,5 @@ public class Demo {
         Valda.calculate(arr, company, scenario);
         Sevidge.calculate(arr, company, scenario);
         Gurvic.calculate(arr, company, scenario);
-        System.out.println();
     }
 }
